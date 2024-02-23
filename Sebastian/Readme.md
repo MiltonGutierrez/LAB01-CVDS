@@ -30,5 +30,7 @@
   - _Duración:_ Desde diciembre de 2024
 
 ## GIT BRANCHING
-- 
+- ![c1](https://github.com/MiltonGutierrez/LAB01-CVDS/blob/6b995dcfd71c295f9e070c8f2008737df984406d/images/c1.jpeg)
+- ![c2](https://github.com/MiltonGutierrez/LAB01-CVDS/blob/6b995dcfd71c295f9e070c8f2008737df984406d/images/c2.jpeg)
+
 ¡Siempre interesado en nuevas oportunidades y proyectos emocionantes!
