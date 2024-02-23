@@ -12,6 +12,8 @@ En una de las doscuentas,cree un nuevo repositorio llamado:cvds-lab1-[].
 Invite al usuario del otro integrante como colaborador de dicho proyecto.
 
 Creación del repo:
+
+
 ![Image][1]
 
 
