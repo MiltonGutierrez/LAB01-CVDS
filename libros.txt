@@ -1,4 +1,9 @@
 Autores:
 Milton
 Jhon
+<<<<<<< HEAD
 
+=======
+Milton
+hola wapo
+>>>>>>> 5594a9d (ULTIMA LINEA AGREGADA)
