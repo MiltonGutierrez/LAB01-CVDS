@@ -16,45 +16,29 @@ Creación del repo:
 
 
 
-2. (Integrante 1) Cree una directorio(carpeta)con lossiguientes archivos:
+2. (Integrante 1) Cree una directorio(carpeta)con los siguientes archivos:
 libro.txt
------------------------ libro.txt -----------------------
-EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES:
+Se realiza la creación del repositorio local y posteriormente se añade la rama remota.
+![Image2][2]
+Se crea el archivo libros.txt con los nombres de los dos integrantes
+![Image3][3]
+4. (Integrante 1)Haga ‘push’ del proyecto recién clonado al nuevo repositorio.
+git push URL_REPOSITORIO master.
 
-CAPITULO UNO
 
-CAPITULO DOS
-
-CAPITULO TRES
----------------------------------------------------------
-feerratas.txt
------------------------ feerratas.txt -------------------
-FE DE ERRATAS
-
-* El tErmino de la pagima (por lo general) 15 es impreSiso.
----------------------------------------------------------
-Cree un repositorio local nuevo utilizando la documentación en https://git-scm.com/docs/git-init
-
-3. (Integrante 1)Haga ‘push’ del proyecto recién clonado al nuevo repositorio.
-git push URL_REPOSITORIO master
-Nota: Si tiene problemas haciendo el push, se debe a cambio en las políticas de seguridad de GitHub. Seguir los
-siguientes pasos:
-“Create Personal Access Token on GitHub
-
-Desde tu cuenta de GitHub, ir a Settings → Developer Settings → Personal Access Token → Generate New Token
-(Give your password) → Llene el formulario → de click en Generate token → Copie el Token generado, será algo
-como ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta. Luego ese token servirá para la autenticación requerida en la
-consola de github”.
+**Se realizo este paso conjunto al siguiente**
 
 4. (Integrante 1) Agregue al libro,como autores, losintegrantes de la pareja (sólo el primer nombre). Agregue loscambios para elsiguiente commit,
 haga commit, y haga ‘push’ de dichoscommits:
-git add .
-git commit -m "AUTORES DE LA PAREJA 1 AGREGADOS"
-git push URL_REPOSITORIO master
+![Image4][4]
+![Image5][5]
 5. (Integrantes 1 y 2) Revisen a través delcliente Web de GitHub, que el documento haya sido actualizado.
+![Image5][6]
 6. (Integrante 2) Clone el proyecto actualizado:
+
 git clone URL_REPOSITORIO
+
+
 7. (Integrante 2) Agregue los autores de su Pareja al libro (sólo el primer nombre). Agregue loscambios para elsiguiente commit, haga commit, y haga
 ‘push’ de dichoscommits:
 git add .
