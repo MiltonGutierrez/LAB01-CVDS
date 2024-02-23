@@ -12,9 +12,8 @@ En una de las doscuentas,cree un nuevo repositorio llamado:cvds-lab1-[].
 Invite al usuario del otro integrante como colaborador de dicho proyecto.
 
 Creación del repo:
-
-
 ![Image][1]
+
 
 
 2. (Integrante 1) Cree una directorio(carpeta)con lossiguientes archivos:
@@ -94,18 +93,18 @@ Trabajo Individual:
 finalizado junto con el nombre /carné de la persona que toma la captura.
 4. Agregue lasimágenes en el Readme de su carpeta de forma que sean visibles desde el repositorio.
 
-[1] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/1.png
-[2] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/2.png
-[3] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/3.png
-[4] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/4.png
-[5] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/5.png
-[6] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/6.png
-[7] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/7.png
-[8] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/8.png
-[9] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/9.png
-[10] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/10.png
-[11] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/11.png
-[12] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/12.png
-[13] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/13.png
-[14] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/14.png
-[15] : https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/15.png
+[1]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/1.png
+[2]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/2.png
+[3]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/3.png
+[4]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/4.png
+[5]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/5.png
+[6]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/6.png
+[7]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/7.png
+[8]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/8.png
+[9]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/9.png
+[10]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/10.png
+[11]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/11.png
+[12]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/12.png
+[13]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/13.png
+[14]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/14.png
+[15]: https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/15.png
