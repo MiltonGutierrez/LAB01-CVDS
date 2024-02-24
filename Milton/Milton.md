@@ -35,5 +35,6 @@
 
 
 ## GIT BRANCHING
-
+![git1](https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/miltonGitB1.png)
+![git2](https://github.com/MiltonGutierrez/LAB01-CVDS/blob/master/images/miltonGitB2.png)
 
